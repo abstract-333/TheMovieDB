@@ -1,4 +1,4 @@
-import 'package:themoviedb/configuratoin/configuration.dart';
+import 'package:themoviedb/configuration/configuration.dart';
 import 'package:themoviedb/domain/api_client/network_client.dart';
 import 'package:themoviedb/domain/entity/movie_details.dart';
 import 'package:themoviedb/domain/entity/popular_movie_response.dart';

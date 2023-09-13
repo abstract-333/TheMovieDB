@@ -1,4 +1,4 @@
-import 'package:themoviedb/configuratoin/configuration.dart';
+import 'package:themoviedb/configuration/configuration.dart';
 import 'package:themoviedb/domain/api_client/network_client.dart';
 
 enum MediaType { movie, tv }

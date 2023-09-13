@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:themoviedb/configuratoin/configuration.dart';
+import 'package:themoviedb/configuration/configuration.dart';
 import 'package:themoviedb/domain/api_client/api_client_exception.dart';
 
 class NetworkClient {
