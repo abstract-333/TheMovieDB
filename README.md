@@ -1,6 +1,6 @@
-# themoviedb
+# TheMovieDB
 
-A new Flutter project.
+Using The Movie DB API to make mobile app in flutter.
 
 ## Getting Started
 
